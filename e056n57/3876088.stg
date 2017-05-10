@@ -1,5 +1,6 @@
 OBJECT_SHARED Models/Airport/ndb.ac 56.09 57.95 105.93 180
 OBJECT_SHARED Models/Airport/ils.xml 56.036667 57.923333 117.77 132.52
+OBJECT_SHARED Models/Communications/vordme_1.xml 56.028326 57.920686 117.51 0
 OBJECT_SHARED Models/Airport/marker.ac 56.055 57.931667 111.76 180
 OBJECT_SHARED Models/Airport/marker.ac 56.09 57.95 105.93 180
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 56.1354601 57.8793928 126.94 28.98
