@@ -1,6 +1,7 @@
 OBJECT_SHARED Models/Airport/ndb.ac 55.383333 51.795 115.71 180
 OBJECT_SHARED Models/Airport/ils.xml 55.443333 51.796667 112.84 269.43
-OBJECT_SHARED Models/Airport/ils.xml 55.446667 51.796667 112.93 87.2
+OBJECT_SHARED Models/Airport/ils.xml 55.470325 51.794476 111.64 87.2
+OBJECT_SHARED Models/Communications/vordme_1.xml 55.453352 51.797575 113.82 0
 OBJECT_SHARED Models/Airport/marker.ac 55.383333 51.795 115.71 180
 OBJECT_SHARED Models/Airport/marker.ac 55.423333 51.795 111.94 180
 OBJECT_SHARED Models/Airport/marker.ac 55.491667 51.795 110.76 180
@@ -58,3 +59,5 @@ OBJECT_SHARED Models/lib/RampParkingStripe.xml 55.45696 51.79222 111.37 1.66
 OBJECT_SHARED Models/lib/RampParkingStripe.xml 55.45608 51.79220 111.36 1.66
 OBJECT_SHARED Models/lib/CargoPodPkng.ac 55.46000 51.79158 111.11 270
 # END dsf2stg
+OBJECT_SHARED Models/Airport/localizer.xml 55.425 51.795 111.96 87.2
+OBJECT_SHARED Models/Airport/localizer.xml 55.486667 51.795 111.87 269.43
